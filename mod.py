@@ -11,3 +11,6 @@ in_the_piggy_bank = (int(annual_salary) * 12 - int(for_a_mortgage) - int(for_a_l
 
 print('Всего было накоплено:', in_the_piggy_bank )
 
+
+
+print("modification two")
